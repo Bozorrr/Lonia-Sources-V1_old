@@ -1,0 +1,7 @@
+name: LoniaModeration
+version: 1.0.0
+author: Bozorr
+main: net.lonia.moderation.LoniaModeration
+
+depend:
+  - LoniaCore

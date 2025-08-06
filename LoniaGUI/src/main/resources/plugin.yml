@@ -1,0 +1,7 @@
+name: LoniaGui
+version: 1.0.0
+author: Bozorr
+main: net.lonia.gui.LoniaGui
+
+depend:
+  - LoniaCore

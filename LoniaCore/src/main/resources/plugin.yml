@@ -1,0 +1,4 @@
+name: LoniaCore
+version: 1.0.0
+author: Bozorr
+main: net.lonia.core.LoniaCore

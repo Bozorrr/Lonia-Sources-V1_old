@@ -1,0 +1,14 @@
+name: LoniaBungee
+version: 1.0.0
+author: Bozorr
+main: net.lonia.bungee.LoniaBungee
+
+commands:
+  group:
+    description: Permet de gerer les groupes
+    aliases:
+      - g
+  friend:
+    description: Permet de gérer les amis
+    aliases:
+      - f

@@ -1,0 +1,7 @@
+name: LoniaRush
+version: 1.0.0
+author: Bozorr
+main: net.lonia.rush.LoniaRush
+
+depend:
+  - LoniaCore
